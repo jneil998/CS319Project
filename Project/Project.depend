@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1554765765 source:c:\users\neil\documents\github\cs319labs\project\matrix09.cpp
+	<iostream>
+	"Vector09.h"
+	"Matrix09.h"
+
+1554859939 c:\users\neil\documents\github\cs319labs\project\vector09.h
+	<iostream>
+
+1554859939 c:\users\neil\documents\github\cs319labs\project\matrix09.h
+	"Vector09.h"
+	<sstream>
+
+1552471925 source:c:\users\neil\documents\github\cs319labs\project\triplet.cpp
+	<iostream>
+	<iomanip>
+	"Vector09.h"
+	"Matrix09.h"
+	"Triplet.h"
+
+1552471925 c:\users\neil\documents\github\cs319labs\project\triplet.h
+	"Vector09.h"
+	"Matrix09.h"
+
+1552471925 source:c:\users\neil\documents\github\cs319labs\project\vector09.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"Vector09.h"
+
+1554855962 source:c:\users\neil\documents\github\cs319labs\project\main.cpp
+	<iostream>
+	"Matrix09.h"
+	"Vector09.h"
+	<cmath>
+	<string>
+	<list>
+
